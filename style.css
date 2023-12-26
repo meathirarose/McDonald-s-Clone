@@ -8,6 +8,7 @@
 body{
     width: 100%;
 }
+
 /*navigation bar */
 .header{ 
     width: 100%;
@@ -39,6 +40,7 @@ body{
 #Downarrow{
     width: 2.5%;
     margin-left: 5px;
+    cursor: pointer;
 }
 /* right side upper navigation menu */
 .rightSub{
@@ -101,6 +103,7 @@ body{
     width: 1.1%;
     margin-left: -919px;
     margin-top: 22px;
+    cursor: pointer;
 }
 /* main content one */
 .content{
