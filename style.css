@@ -104,10 +104,6 @@ body{
     margin-top: 22px;
 }
 
-.mainContent{
-    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
-}
-
 .content{
     margin-top: 90px;
     width: 100%;
@@ -131,26 +127,22 @@ body{
     margin-top: 10px;
     line-height: 40px;
     padding-bottom: 25px;
-    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
 }
 
 h1{
     font-weight:700;
     font-size: 36px;
     color: rgb(43, 42, 42);
-    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
 }
 
 .para{
     line-height: 23px;
-    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
 }
 
 h6{
     padding-top: 35px;
     font-size: x-small;
     font-weight: 400;
-    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
 }
 
 #button1{
@@ -160,6 +152,6 @@ h6{
 }
 
 #button2{
-    
+
 }
 
