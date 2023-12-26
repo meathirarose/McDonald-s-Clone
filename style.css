@@ -236,9 +236,54 @@ ul{
     margin-left: 150px;
     margin-right: 150px;
 }
-.list{
+/* bottom footer */
+.footer2{
     display: flex;
 }
+/* bottom footer list first row */
 .listFoot {
     display: flex;
+    margin-left: 145px;
+    margin-top: 50px;
+}
+/* bottom footer list first row anchor tab */
+.listFoot a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+/* borrom mc logo */
+.mcfootlogo{
+    width:2.1%;
+    height: 2.1%;
+    margin-top: 46px;
+    margin-left: 210px;
+}
+
+h5{
+    margin-top: 46px;
+    margin-left: 55px;
+    font-weight: normal;
+    font-size: medium;
+}
+
+.footright{
+    margin-left: 203px;
+    line-height: 0;
+}
+
+.footerrow2{
+    margin-left: 100px;
+    height: 150px;
+}
+
+.listfoot2{
+    display: flex;
+}
+
+.listfoot2 a{
+    text-decoration: none;
+    color: black;
+    padding-left: 60px;
+    padding-top: 40px;
 }
