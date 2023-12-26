@@ -28,32 +28,31 @@ body{
     padding-top: 14px;
     color: black;
 }
-
+/* left side upper navigation bar menu anchor tab */
 .subHead a{
     text-decoration: none;
     color: rgb(49, 45, 45);
     font-size: small;
     padding-left: 40px;
 }
-
+/* down arrow for language */
 #Downarrow{
     width: 2.5%;
     margin-left: 5px;
 }
-
+/* right side upper navigation menu */
 .rightSub{
     margin-left: 100px;
     margin-top: 14px;
-    
 }
-
+/* right side upper navigation menu anchor tab */
 .rightSub a{
     color: rgb(49, 45, 45);
     text-decoration: none;
     font-size: small;
 }
-
-.ordernow{
+/* button overall chara */
+.button{
     background-color: rgb(255, 191,0);
     border: none;
     font-size: 1rem;
@@ -61,34 +60,34 @@ body{
     padding: 9px 22px;
     cursor: pointer;
 }
-
+/* order now button */
 #ordernw{
     margin-left: 15px;
 }
-
+/* search class */
 .search{
     margin-right: 30px;
 }
-
+/* search pic */
 .imgSearch{
     width:1.1%; 
     margin-right: 5px;
 }
-
+/* location class */
 .locatn{
     width: 0.9%;
     height: 1%;
     margin-right: 5px;
 }
-
+/* location image class */
 .loc{
     color: rgb(38, 38, 163);
 }
-
+/* navigation bar main menus class */
 .subHead2{
     margin-left:240px;
 }
-
+/* navigation bar main menus class anchor tab */
 .subHead2 a{
     text-decoration: none;
     color: black;
@@ -97,63 +96,100 @@ body{
     float: left;
     padding-top: 20px;
 }
-
+/* down arrow for 'our menu'  */
 #Downarrow2{
     width: 1.1%;
     margin-left: -919px;
     margin-top: 22px;
 }
-
+/* main content one */
 .content{
-    margin-top: 90px;
-    width: 100%;
-    height:500px;
+    margin-top: 90px;   
     display: flex;
 }
-
+/* side content one */
 .sideCon{
     margin-left: 40px;
-    justify-content: end;
+    justify-content:end;
+    padding-bottom: 65px;
 }
-
+/* image one in content */
 .image{
     width: 746px;
     height: 337px; 
     margin-left: 182px; 
 }
-
+/* heading 1 class */
 .head{
     margin-left: 1px;
-    margin-top: 10px;
+    margin-top: 5px;
     line-height: 40px;
     padding-bottom: 25px;
 }
-
+/* heading for all the content */
 h1{
     font-weight:700;
     font-size: 36px;
     color: rgb(43, 42, 42);
 }
-
+/* content paragraph */
 .para{
     line-height: 23px;
 }
-
+/* small text above button for all the contents */
 h6{
     padding-top: 35px;
     font-size: x-small;
     font-weight: 400;
 }
-
+/* Order in the App */
 #button1{
     width: 180px;
     height: 48px;
     margin-top: 50px;
 }
-
+/* Shop the Collab Now button */
 #button2{
     width:200px;
     height: 48px;
     margin-top: 50px;
 }
+/* Get Free Fries in the App button */
+#button3{
+    width:235px;
+    height: 48px;
+    margin-top: 50px;
+}
+/* Earn Points with McDelivery button */
+#button4{
+    width: 250px;
+    height:48px;
+    margin-top: 50px;
+}
+/* learn more button */
+#button5{
+    width: 150px;
+    height:48px;
+    margin-top: 50px;
+}
+/* Order ahead in the App button */
+#button6{
+    width: 230px;
+    height:48px;
+    margin-top: 50px;
+}
+/* Get App Deals button */
+#button7{
+    width: 180px;
+    height:48px;
+    margin-top: 50px;
+}
 
+.footer1{
+    margin-top: 100px;
+    
+}
+
+h4{
+    display: flex;
+}
