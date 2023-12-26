@@ -224,10 +224,12 @@ ul{
 /* appstore images */
 .img-appstore{
     margin-left: 470px;
+    cursor: pointer;
 }
 /* footer social class for all images */
 .social{
     padding: 10px;
+    cursor: pointer;
 }
 /* border line */
 .border{
@@ -259,28 +261,28 @@ ul{
     margin-top: 46px;
     margin-left: 210px;
 }
-
+/* footer right 'all rights' */
 h5{
     margin-top: 46px;
     margin-left: 55px;
     font-weight: normal;
     font-size: medium;
 }
-
+/* span class 'all rights' */
 .footright{
     margin-left: 203px;
     line-height: 0;
 }
-
+/* bottom footer row 2 */
 .footerrow2{
-    margin-left: 100px;
+    margin-left: 98px;
     height: 150px;
 }
-
+/* list 2 of row 2 */
 .listfoot2{
     display: flex;
 }
-
+/* list 2 of row 2 anchor tab */
 .listfoot2 a{
     text-decoration: none;
     color: black;
