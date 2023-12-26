@@ -192,7 +192,7 @@ h6{
 .row{
     display: flex;
     flex-wrap: wrap;
-    margin-left: 140px;
+    margin-left: 115px;
 }
 /* all list items in footer */
 ul{
@@ -211,4 +211,34 @@ ul{
 /* column heading */
 .col h4{
     margin-bottom: 15px;
+}
+/* footer2 holding logos */
+.footerSocial{
+    display: flex;
+    margin-top: 50px;
+}
+/* footer2 holding logos of diff social media */
+.img-social{
+    margin-left: 180px;
+}
+/* appstore images */
+.img-appstore{
+    margin-left: 470px;
+}
+/* footer social class for all images */
+.social{
+    padding: 10px;
+}
+/* border line */
+.border{
+    height: 30px;
+    border-bottom: 1px solid rgb(217, 208, 208);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.list{
+    display: flex;
+}
+.listFoot {
+    display: flex;
 }
